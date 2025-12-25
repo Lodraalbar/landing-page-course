@@ -393,13 +393,17 @@ nav .sign a:nth-child(1):hover{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: var(--bgputih);
+    background-color: var(--birumuda);
+}
+
+.footer p {
+    color: white;
 }
 
 .footer a{
     margin: 0 0 0 10px;
     text-decoration: none;
-    color: var(--birumuda);
+    color: var(--pinkgradien);
 }
 
 /* hp */
@@ -608,7 +612,8 @@ nav .sign a:nth-child(1):hover{
     font-weight: 500;
     font-style: normal;
 }
-    
+
+
 
 }
 
